@@ -1,4 +1,4 @@
-# Protocol Template
+# IMOS Marine Microbiome Facility DNA extraction protocol
 
 MIOP protocol template
 
@@ -6,8 +6,9 @@ MIOP protocol template
 
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell | yyyy-mm-dd |
-| Content Cell  | Content Cell  | Content Cell | yyyy-mm-dd |
+| Jodie van de Kamp  | CSIRO  | https://orcid.org/0000-0003-2167-0938 | yyyy-mm-dd |
+| Sharon Appleyard  | CSIRO  | Content Cell | yyyy-mm-dd |
+| Guy Abell  | Content Cell  | Content Cell | yyyy-mm-dd |
 
 ## PROTOCOL REVISION RECORD
 
@@ -40,7 +41,9 @@ This is a list of other protocols that are not in your folder which should be kn
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| IMOS  | Integrated Marine Observing System  |
+| CSIRO  | Commonwealth and SCientific Industrial Research Organisation  |
+| Content Cell  | Content Cell |
 
 ## GLOSSARY
 
@@ -67,9 +70,12 @@ Insert a short statement explaining why the specific methodology used in the pro
 
 If applicable, please specify the region where the protocol is applied. For regional term guidance see here. If applicable, please indicate here the environment(s) of relevance for the protocol, e.g. Abyssal plain. Select from the ENVO terminology.
 
+* ocean [ENVO:00000015]
+* 
+
 # PERSONNEL REQUIRED
 
-Insert the number of technicians, data managers, and scientists required for the good execution of the procedure
+* 1 technician
 
 ## Safety
 
